@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Raleway', sans-serif;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 blockquote {
   border-color: #ffffff;
@@ -1111,7 +1111,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJHALFMw2F {
   padding-top: 105px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/7051.jpg");
 }
 .cid-rJHALFMw2F .mbr-figure {
@@ -1135,9 +1135,9 @@ section.lazy-placeholder:after {
   color: #f9f295;
 }
 .cid-rK8YZwBaOa {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #82786e;
+  background-image: url("../../../assets/images/7051.jpg");
 }
 @media (min-width: 992px) {
   .cid-rK8YZwBaOa .mbr-figure {
@@ -1157,7 +1157,7 @@ section.lazy-placeholder:after {
 .cid-rK9LAp0eqM {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #82786e;
+  background-image: url("../../../assets/images/7051.jpg");
 }
 .cid-rK9LAp0eqM [class^="socicon-"]:before,
 .cid-rK9LAp0eqM [class*=" socicon-"]:before {
